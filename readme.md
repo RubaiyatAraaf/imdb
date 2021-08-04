@@ -7,16 +7,15 @@ Used technology:
 Django (Python) + Jquery, Bootstrap
 Please follow the process below to install
 
-    Clone this repository use: 
-     git clone https://github.com/RubaiyatAraaf/imdb.git 
+Clone this repository use: 
+     git clone https://github.com/RubaiyatAraaf/imdb.git
  
 Cd to folder:
     
     cd imdb/
 
-setting up a development environment
-
-    start an environment with requirements e.g. pipenv install -r /requirements.txt
+setting up a development environment.start an environment with requirements e.g. 
+    pipenv install -r /requirements.txt
 
 migrating the already defined models and creating the super user
 
@@ -38,20 +37,6 @@ P.S: you may follow the process as the ordering defined or there may be problems
 
 Version History:
 0.0.1
-
-
-First commit
-TODOs:
-
-    Reduce number of queries
-    Registration and login
-    Watchlist, favorites and rankings
-    Comments
-    Performance improvements on search
-
-    rest_framework is introduced to the application, needed base code is written, but not secure yet *
-
-    More unit tests are added continuously *
 
 Other Notes:
 
