@@ -38,8 +38,5 @@ P.S: you may follow the process as the ordering defined or there may be problems
 Version History:
 0.0.1
 
-Other Notes:
-
-    You may want to remove Google Analytics code. Remove this line from templates/html/lte/base.html: {% include 'html/lte/_partials/_91_ga.html' %} And delete the included html file: _91_ga.html
 
 
