@@ -7,7 +7,8 @@ Used technology:
 Django (Python) + Jquery, Bootstrap
 Please follow the process below to install
 
-    Clone this repository (use git clone https://github.com/RubaiyatAraaf/imdb.git) 
+    Clone this repository use: 
+     git clone https://github.com/RubaiyatAraaf/imdb.git 
  
 Cd to folder:
     
