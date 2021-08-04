@@ -1,0 +1,13 @@
+{% load i18n %}
+<!-- IMDB is an open-source project. 
+  You can change footer copyright info -->
+<footer class="main-footer text-sm">
+  <div class="float-right d-none d-sm-block">
+    <b>{% trans 'Version' %}</b> 0.1.2
+  </div>
+  <strong>
+    {% trans 'Copyright' %} &copy; {% now 'Y' %} 
+    <a href="imdb.com" target="_blank">
+      IMDb</a>.
+  </strong> {% trans 'Clone Website (This site is not real.This is a clone website for educational purpose only.please visit imdb.com )' %}.
+</footer>
